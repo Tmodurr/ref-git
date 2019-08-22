@@ -7,6 +7,10 @@ _A list of my commonly used Git commands_
 
 --
 
+
+#### git enter message in vim
+```esc -> :wq```
+
 ### Getting & Creating Projects
 
 | Command | Description |
