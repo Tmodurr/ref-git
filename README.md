@@ -54,6 +54,8 @@ _A list of my commonly used Git commands_
 | `git reset --hard HEAD~1` | Kill unpushed commit and trash code changes |
 | `git push --set-upstream origin <insert-repo-name>`| Push to remote with new repo |
 
+#### Removing/Deleting 
+| ` git add -u` | Remove unnecessary deleted files so not part of commit |
 
 ### Sharing & Updating Projects
 
